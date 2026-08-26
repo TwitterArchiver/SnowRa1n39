@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1921908964201054209"
+      ],
+      "media_source_tweet_id": [
+        "1921909023630148087"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1922694289722663179",
+    "created_at": "2025-05-14T16:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T17:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922694289722663179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763709014368808960",
+          "start": 3,
+          "username": "dj_myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RIWq7hLwMw",
+          "end": 39,
+          "expanded_url": "https://x.com/dj_myosuke/status/1921909023630148087/video/1",
+          "media_key": "13_1921908964201054209",
+          "start": 16,
+          "url": "https://t.co/RIWq7hLwMw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922694289722663179",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921909023630148087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dj_myosuke: https://t.co/RIWq7hLwMw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4308,
+        "height": 1280,
+        "media_key": "13_1921908964201054209",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1921908964201054209/img/uYm92KTqt17ytcWG.jpg",
+        "public_metrics": {
+          "view_count": 1880
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921908964201054209/vid/avc1/320x568/T6vBIcUP6jFTaCtT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921908964201054209/vid/avc1/480x852/Jc-PUovayN-6zQu2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921908964201054209/vid/avc1/720x1280/uqCP3vWP78BuFGyN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921908964201054209/pl/gJYcL8gli29SXegS.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921908964201054209"
+          ],
+          "media_source_tweet_id": [
+            "1921909023630148087"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1922694289722663179",
+        "created_at": "2025-05-14T16:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T17:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922694289722663179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763709014368808960",
+              "start": 3,
+              "username": "dj_myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIWq7hLwMw",
+              "end": 39,
+              "expanded_url": "https://x.com/dj_myosuke/status/1921909023630148087/video/1",
+              "media_key": "13_1921908964201054209",
+              "start": 16,
+              "url": "https://t.co/RIWq7hLwMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922694289722663179",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921909023630148087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dj_myosuke: https://t.co/RIWq7hLwMw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921908964201054209"
+          ]
+        },
+        "author_id": "1763709014368808960",
+        "conversation_id": "1921909023630148087",
+        "created_at": "2025-05-12T12:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T13:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921909023630148087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIWq7hLwMw",
+              "end": 23,
+              "expanded_url": "https://x.com/dj_myosuke/status/1921909023630148087/video/1",
+              "media_key": "13_1921908964201054209",
+              "start": 0,
+              "url": "https://t.co/RIWq7hLwMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921909023630148087",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5666,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RIWq7hLwMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 147,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T23:33:05.000Z",
+        "description": "サブアカ作りました！ みんなが笑顔になれるような楽しい投稿をします！ 本アカ→@myosuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "myosuke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/0u7v4RHxfO"
+              }
+            ]
+          }
+        },
+        "id": "1763709014368808960",
+        "location": "ツイ消ししまくる",
+        "name": "DJ Myosuke 🈂️ブ",
+        "pinned_tweet_id": "1763709561578684555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831221357750988801/kMf4nYt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 18,
+          "like_count": 1071,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/0u7v4RHxfO",
+        "username": "dj_myosuke",
+        "verified": false
+      }
+    ]
+  }
+}

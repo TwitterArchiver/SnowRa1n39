@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082851594656452609"
+      ],
+      "media_source_tweet_id": [
+        "2082851598976590308"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "2082862395001823706",
+    "created_at": "2026-07-30T16:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862395001823706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xC6pWr8HF5",
+          "end": 84,
+          "expanded_url": "https://x.com/myosuke/status/2082851598976590308/photo/1",
+          "media_key": "3_2082851594656452609",
+          "start": 61,
+          "url": "https://t.co/xC6pWr8HF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862395001823706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082851598976590308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: 誕生日だ🎈🎂🎉🌚🍻🍣🍜🐶🎊\nみなさんいつもありがとう！！！！\n今年も激ヤバ曲をたくさん作るぞ！ https://t.co/xC6pWr8HF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2082851594656452609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfGfWtakAERiyB.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082851594656452609"
+          ]
+        },
+        "author_id": "62045827",
+        "conversation_id": "2082851598976590308",
+        "created_at": "2026-07-30T15:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082851598976590308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC6pWr8HF5",
+              "end": 71,
+              "expanded_url": "https://x.com/myosuke/status/2082851598976590308/photo/1",
+              "media_key": "3_2082851594656452609",
+              "start": 48,
+              "url": "https://t.co/xC6pWr8HF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082851598976590308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3445,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日だ🎈🎂🎉🌚🍻🍣🍜🐶🎊\nみなさんいつもありがとう！！！！\n今年も激ヤバ曲をたくさん作るぞ！ https://t.co/xC6pWr8HF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082851594656452609"
+          ],
+          "media_source_tweet_id": [
+            "2082851598976590308"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "2082862395001823706",
+        "created_at": "2026-07-30T16:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862395001823706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xC6pWr8HF5",
+              "end": 84,
+              "expanded_url": "https://x.com/myosuke/status/2082851598976590308/photo/1",
+              "media_key": "3_2082851594656452609",
+              "start": 61,
+              "url": "https://t.co/xC6pWr8HF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862395001823706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082851598976590308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: 誕生日だ🎈🎂🎉🌚🍻🍣🍜🐶🎊\nみなさんいつもありがとう！！！！\n今年も激ヤバ曲をたくさん作るぞ！ https://t.co/xC6pWr8HF5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 109,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer / 激しい音楽 / 音デカ探究\n\n┊動画→https://t.co/sS20MNMyG1\n┊日常→@dj_myosuke┊🌚→@joe__fight\n┊HARDCORE TANO*C\n┊曲→ CHUNITHM／maimai／Arcaea／HoYoFair 等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "dj_myosuke"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "joe__fight"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 62,
+                "expanded_url": "https://www.youtube.com/djmyosuke",
+                "start": 39,
+                "url": "https://t.co/sS20MNMyG1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼は個人まで→myosuke.666@gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "2081222754393878674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973316678076481536/NCF8CbU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65376,
+          "following_count": 750,
+          "like_count": 11187,
+          "listed_count": 365,
+          "media_count": 7839,
+          "tweet_count": 48020
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

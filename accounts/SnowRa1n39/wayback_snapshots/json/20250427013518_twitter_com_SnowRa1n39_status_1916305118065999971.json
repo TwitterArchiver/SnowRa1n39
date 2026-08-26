@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916291266817695744"
+      ],
+      "media_source_tweet_id": [
+        "1916291285553713601"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1916305118065999971",
+    "created_at": "2025-04-27T01:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T02:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916305118065999971"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "Fujimi Industry Records",
+          "probability": 0.2839,
+          "start": 26,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "M3春2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "93365310",
+          "start": 3,
+          "username": "akiradeath"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/htw5w33Wxu",
+          "end": 93,
+          "expanded_url": "https://x.com/akiradeath/status/1916291285553713601/photo/1",
+          "media_key": "3_1916291266817695744",
+          "start": 70,
+          "url": "https://t.co/htw5w33Wxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916305118065999971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916291285553713601",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akiradeath: #M3春2025 \nFujimi Industry Records準備完了！A-13bでお待ちしてます！！ https://t.co/htw5w33Wxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1916291266817695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgIwRTaIAAJVFE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916291266817695744"
+          ],
+          "media_source_tweet_id": [
+            "1916291285553713601"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1916305118065999971",
+        "created_at": "2025-04-27T01:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916305118065999971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Fujimi Industry Records",
+              "probability": 0.2839,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "M3春2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "93365310",
+              "start": 3,
+              "username": "akiradeath"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htw5w33Wxu",
+              "end": 93,
+              "expanded_url": "https://x.com/akiradeath/status/1916291285553713601/photo/1",
+              "media_key": "3_1916291266817695744",
+              "start": 70,
+              "url": "https://t.co/htw5w33Wxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916305118065999971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916291285553713601",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akiradeath: #M3春2025 \nFujimi Industry Records準備完了！A-13bでお待ちしてます！！ https://t.co/htw5w33Wxu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916291266817695744"
+          ]
+        },
+        "author_id": "93365310",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1916291285553713601",
+        "created_at": "2025-04-27T00:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T01:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916291285553713601"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Fujimi Industry Records",
+              "probability": 0.3226,
+              "start": 10,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "M3春2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htw5w33Wxu",
+              "end": 77,
+              "expanded_url": "https://x.com/akiradeath/status/1916291285553713601/photo/1",
+              "media_key": "3_1916291266817695744",
+              "start": 54,
+              "url": "https://t.co/htw5w33Wxu"
+            },
+            {
+              "display_url": "x.com/akiradeath/sta…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/akiradeath/status/1916052639533699465",
+              "start": 78,
+              "url": "https://t.co/0OuGexP78V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916291285553713601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 537,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916052639533699465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#M3春2025 \nFujimi Industry Records準備完了！A-13bでお待ちしてます！！ https://t.co/htw5w33Wxu https://t.co/0OuGexP78V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-29T09:34:25.000Z",
+        "description": "硬核系打込波形切貼音楽製作者のCoakiraです。\nHardcoreTechno Producer\nMember of \"AKIRADEATH\" \"INUKORO\" \"CustomMummy\"\nOwner of \"Fujimi Industry Records\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/coakiradeath",
+                "end": 23,
+                "expanded_url": "https://lit.link/coakiradeath",
+                "start": 0,
+                "url": "https://t.co/W9UxJomAku"
+              }
+            ]
+          }
+        },
+        "id": "93365310",
+        "name": "Coakira",
+        "pinned_tweet_id": "1916052639533699465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915543454404534275/JLyaYkqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 3489,
+          "like_count": 23314,
+          "listed_count": 59,
+          "media_count": 2823,
+          "tweet_count": 17579
+        },
+        "url": "https://t.co/W9UxJomAku",
+        "username": "akiradeath",
+        "verified": true
+      }
+    ]
+  }
+}

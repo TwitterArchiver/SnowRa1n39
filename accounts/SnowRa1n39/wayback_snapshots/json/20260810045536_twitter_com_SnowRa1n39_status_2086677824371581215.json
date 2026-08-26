@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085999586427146240"
+      ],
+      "media_source_tweet_id": [
+        "2086000714531385599"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "2086677824371581215",
+    "created_at": "2026-08-10T04:55:36.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086677824371581215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2059149411007991808",
+          "start": 3,
+          "username": "wndsfefoumxlw6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqvCSfE4jM",
+          "end": 89,
+          "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086000714531385599/photo/1",
+          "media_key": "3_2085999586427146240",
+          "start": 66,
+          "url": "https://t.co/pqvCSfE4jM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086677824371581215",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2085999586427146240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086000714531385599",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wndsfefoumxlw6: 今日的违禁词，短短几天大家见证了创号到结束，这是我最后一次写这个了，所有的违禁我都扒出来了 https://t.co/pqvCSfE4jM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2085999586427146240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPL1kl6aEAAfQKL.png",
+        "width": 1257
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085999586427146240"
+          ]
+        },
+        "author_id": "2059149411007991808",
+        "conversation_id": "2086000714531385599",
+        "created_at": "2026-08-08T08:05:01.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T09:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086000714531385599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqvCSfE4jM",
+              "end": 69,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086000714531385599/photo/1",
+              "media_key": "3_2085999586427146240",
+              "start": 46,
+              "url": "https://t.co/pqvCSfE4jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086000714531385599",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085999586427146240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2414,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今日的违禁词，短短几天大家见证了创号到结束，这是我最后一次写这个了，所有的违禁我都扒出来了 https://t.co/pqvCSfE4jM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085999586427146240"
+          ],
+          "media_source_tweet_id": [
+            "2086000714531385599"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "2086677824371581215",
+        "created_at": "2026-08-10T04:55:36.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086677824371581215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2059149411007991808",
+              "start": 3,
+              "username": "wndsfefoumxlw6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqvCSfE4jM",
+              "end": 89,
+              "expanded_url": "https://x.com/wndsfefoumxlw6/status/2086000714531385599/photo/1",
+              "media_key": "3_2085999586427146240",
+              "start": 66,
+              "url": "https://t.co/pqvCSfE4jM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086677824371581215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2085999586427146240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086000714531385599",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wndsfefoumxlw6: 今日的违禁词，短短几天大家见证了创号到结束，这是我最后一次写这个了，所有的违禁我都扒出来了 https://t.co/pqvCSfE4jM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086677824371581215",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914248090048991232/1745232059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 101,
+          "like_count": 2331,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T05:48:02.000Z",
+        "description": "mtx/19/💊💉避难所：@SRamirez66171/@imqrmrtvom1lkt/@NicoleTravabgk电子烟+v：c313s852j0976\n主人：@MercuricCyanide\n自用梯子https://t.co/89bWifkSsU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "SRamirez66171"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 59,
+                "start": 44,
+                "username": "NicoleTravabgk"
+              },
+              {
+                "end": 98,
+                "start": 82,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "一分机场.com/#/register?cod…",
+                "end": 126,
+                "expanded_url": "https://xn--4gqx1hgtfdmt.com/#/register?code=A0AcLjlJ",
+                "start": 103,
+                "url": "https://t.co/89bWifkSsU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/abbxjss",
+                "end": 23,
+                "expanded_url": "https://t.me/abbxjss",
+                "start": 0,
+                "url": "https://t.co/nSeU2CtW4Q"
+              }
+            ]
+          }
+        },
+        "id": "2059149411007991808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086674429887811736",
+        "name": "洛（烟代版）",
+        "pinned_tweet_id": "2068301713518559522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059149411007991808/1780217819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1225,
+          "following_count": 307,
+          "like_count": 6294,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 2829
+        },
+        "url": "https://t.co/nSeU2CtW4Q",
+        "username": "wndsfefoumxlw6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

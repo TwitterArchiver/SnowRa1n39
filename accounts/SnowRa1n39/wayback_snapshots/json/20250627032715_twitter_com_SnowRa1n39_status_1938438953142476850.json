@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926576755684298754"
+      ],
+      "media_source_tweet_id": [
+        "1926576770154717678"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1938438953142476850",
+    "created_at": "2025-06-27T03:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T04:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938438953142476850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "14620668",
+          "start": 3,
+          "username": "tpazolite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZwyeSUnUf",
+          "end": 68,
+          "expanded_url": "https://x.com/tpazolite/status/1926576770154717678/photo/1",
+          "media_key": "3_1926576755684298754",
+          "start": 45,
+          "url": "https://t.co/XZwyeSUnUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938438953142476850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926576770154717678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tpazolite: 社会不適合者なので髪をツアーやってくぞ！の気持ちにしました https://t.co/XZwyeSUnUf"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "10年ぶりくらいに派手髪にしました",
+        "height": 2048,
+        "media_key": "3_1926576755684298754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryTWhMWUAIGaKt.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926576755684298754"
+          ],
+          "media_source_tweet_id": [
+            "1926576770154717678"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1938438953142476850",
+        "created_at": "2025-06-27T03:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T04:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938438953142476850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "14620668",
+              "start": 3,
+              "username": "tpazolite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZwyeSUnUf",
+              "end": 68,
+              "expanded_url": "https://x.com/tpazolite/status/1926576770154717678/photo/1",
+              "media_key": "3_1926576755684298754",
+              "start": 45,
+              "url": "https://t.co/XZwyeSUnUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938438953142476850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926576770154717678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tpazolite: 社会不適合者なので髪をツアーやってくぞ！の気持ちにしました https://t.co/XZwyeSUnUf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926576755684298754"
+          ]
+        },
+        "author_id": "14620668",
+        "conversation_id": "1926576770154717678",
+        "created_at": "2025-05-25T09:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926576770154717678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZwyeSUnUf",
+              "end": 53,
+              "expanded_url": "https://x.com/tpazolite/status/1926576770154717678/photo/1",
+              "media_key": "3_1926576755684298754",
+              "start": 30,
+              "url": "https://t.co/XZwyeSUnUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926576770154717678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 70745,
+          "like_count": 1651,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "社会不適合者なので髪をツアーやってくぞ！の気持ちにしました https://t.co/XZwyeSUnUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 54,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 64
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-01T22:35:53.000Z",
+        "description": "曲も言動も落ち着きがない\nYouTube: https://t.co/sTky67j9Q7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/tpazolite_jp",
+                "end": 45,
+                "expanded_url": "http://youtube.com/tpazolite_jp",
+                "start": 22,
+                "url": "https://t.co/sTky67j9Q7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-h-s.me",
+                "end": 23,
+                "expanded_url": "http://www.c-h-s.me/",
+                "start": 0,
+                "url": "https://t.co/6qaCc3JK1Z"
+              }
+            ]
+          }
+        },
+        "id": "14620668",
+        "location": "Japan",
+        "name": "t+pazolite(とぱぞらいと)",
+        "pinned_tweet_id": "1912808260513497487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650440348106395650/Q-VnIcJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132088,
+          "following_count": 1783,
+          "like_count": 9918,
+          "listed_count": 1006,
+          "media_count": 2723,
+          "tweet_count": 77615
+        },
+        "url": "https://t.co/6qaCc3JK1Z",
+        "username": "tpazolite",
+        "verified": true
+      }
+    ]
+  }
+}

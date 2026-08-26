@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078323992147197952",
+        "3_2078323992172322816"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "2078324004327473318",
+    "created_at": "2026-07-18T03:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078324004327473318"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d3hT5pzlcU",
+          "end": 25,
+          "expanded_url": "https://x.com/SnowRa1n39/status/2078324004327473318/photo/1",
+          "media_key": "3_2078323992147197952",
+          "start": 2,
+          "url": "https://t.co/d3hT5pzlcU"
+        },
+        {
+          "display_url": "pic.x.com/d3hT5pzlcU",
+          "end": 25,
+          "expanded_url": "https://x.com/SnowRa1n39/status/2078324004327473318/photo/1",
+          "media_key": "3_2078323992172322816",
+          "start": 2,
+          "url": "https://t.co/d3hT5pzlcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078324004327473318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咪 https://t.co/d3hT5pzlcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1330,
+        "media_key": "3_2078323992147197952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNewqNAbAAAK26q.jpg",
+        "width": 1012
+      },
+      {
+        "height": 1581,
+        "media_key": "3_2078323992172322816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNewqNGaYAA7NhM.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078323992147197952",
+            "3_2078323992172322816"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "2078324004327473318",
+        "created_at": "2026-07-18T03:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078324004327473318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d3hT5pzlcU",
+              "end": 25,
+              "expanded_url": "https://x.com/SnowRa1n39/status/2078324004327473318/photo/1",
+              "media_key": "3_2078323992147197952",
+              "start": 2,
+              "url": "https://t.co/d3hT5pzlcU"
+            },
+            {
+              "display_url": "pic.x.com/d3hT5pzlcU",
+              "end": 25,
+              "expanded_url": "https://x.com/SnowRa1n39/status/2078324004327473318/photo/1",
+              "media_key": "3_2078323992172322816",
+              "start": 2,
+              "url": "https://t.co/d3hT5pzlcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078324004327473318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪 https://t.co/d3hT5pzlcU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 77,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 128
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

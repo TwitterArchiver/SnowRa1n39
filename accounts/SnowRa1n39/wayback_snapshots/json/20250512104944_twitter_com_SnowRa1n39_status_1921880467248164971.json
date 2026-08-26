@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921521489767002112"
+      ],
+      "media_source_tweet_id": [
+        "1921521510314811549"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1921880467248164971",
+    "created_at": "2025-05-12T10:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921880467248164971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwLbmzPkyM",
+          "end": 57,
+          "expanded_url": "https://x.com/myosuke/status/1921521510314811549/photo/1",
+          "media_key": "3_1921521489767002112",
+          "start": 34,
+          "url": "https://t.co/AwLbmzPkyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921880467248164971",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921521510314811549",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: めんそーれ━━━━(ﾟ∀ﾟ)━━━━!! https://t.co/AwLbmzPkyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1921521489767002112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqdnUHXcAAtboM.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921521489767002112"
+          ],
+          "media_source_tweet_id": [
+            "1921521510314811549"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921880467248164971",
+        "created_at": "2025-05-12T10:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921880467248164971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwLbmzPkyM",
+              "end": 57,
+              "expanded_url": "https://x.com/myosuke/status/1921521510314811549/photo/1",
+              "media_key": "3_1921521489767002112",
+              "start": 34,
+              "url": "https://t.co/AwLbmzPkyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921880467248164971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921521510314811549",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: めんそーれ━━━━(ﾟ∀ﾟ)━━━━!! https://t.co/AwLbmzPkyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921521489767002112"
+          ]
+        },
+        "author_id": "62045827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1921521510314811549",
+        "created_at": "2025-05-11T11:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T12:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921521510314811549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwLbmzPkyM",
+              "end": 44,
+              "expanded_url": "https://x.com/myosuke/status/1921521510314811549/photo/1",
+              "media_key": "3_1921521489767002112",
+              "start": 21,
+              "url": "https://t.co/AwLbmzPkyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921521510314811549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5127,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "めんそーれ━━━━(ﾟ∀ﾟ)━━━━!! https://t.co/AwLbmzPkyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n激しい曲を作ります⚠\n\n┊HARDCORE TANO*C所属\n┊YouTube→https://t.co/maaallUW10\n┊🌚→@joe__fight\n┊日常→@dj_myosuke\n┊楽曲提供→\nチュウニズム、 Arcaea、太鼓の達人、WACCA、IIDX等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "joe__fight"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dj_myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 81,
+                "expanded_url": "http://youtube.com/djmyosuke",
+                "start": 58,
+                "url": "https://t.co/maaallUW10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "1913181965303550161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756930680666398720/9yAThqDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57486,
+          "following_count": 702,
+          "like_count": 10255,
+          "listed_count": 363,
+          "media_count": 7481,
+          "tweet_count": 47388
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

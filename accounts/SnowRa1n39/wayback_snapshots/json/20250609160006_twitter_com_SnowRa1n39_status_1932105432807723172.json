@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932105418743947265"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1932105432807723172",
+    "created_at": "2025-06-09T16:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T17:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932105432807723172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "HITNEX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c3f5LzBgtY",
+          "end": 31,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1932105432807723172/photo/1",
+          "media_key": "3_1932105418743947265",
+          "start": 8,
+          "url": "https://t.co/c3f5LzBgtY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932105432807723172",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#HITNEX https://t.co/c3f5LzBgtY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_1932105418743947265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtA3pEDXIAEEZf8.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932105418743947265"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1932105432807723172",
+        "created_at": "2025-06-09T16:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932105432807723172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "HITNEX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3f5LzBgtY",
+              "end": 31,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1932105432807723172/photo/1",
+              "media_key": "3_1932105418743947265",
+              "start": 8,
+              "url": "https://t.co/c3f5LzBgtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932105432807723172",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#HITNEX https://t.co/c3f5LzBgtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 60
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

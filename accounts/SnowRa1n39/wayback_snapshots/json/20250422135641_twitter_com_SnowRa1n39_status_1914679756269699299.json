@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "1914677106241655170",
+    "created_at": "2025-04-22T13:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T14:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914679756269699299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786722923899977728",
+          "start": 0,
+          "username": "kakusatsuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914679756269699299",
+    "in_reply_to_user_id": "1786722923899977728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914677106241655170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakusatsuko 😘😘😘😘😘😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "1914677106241655170",
+        "created_at": "2025-04-22T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914679756269699299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786722923899977728",
+              "start": 0,
+              "username": "kakusatsuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914679756269699299",
+        "in_reply_to_user_id": "1786722923899977728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914677106241655170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakusatsuko 😘😘😘😘😘😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786722923899977728",
+        "conversation_id": "1914677106241655170",
+        "created_at": "2025-04-22T13:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914677106241655170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Snow9urialちゃん",
+              "probability": 0.8019,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "kakusatsuko"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "coakira"
+            },
+            {
+              "end": 71,
+              "start": 57,
+              "tag": "satsukofanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SnowRa1n39/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/SnowRa1n39/status/1914670018786132397",
+              "start": 72,
+              "url": "https://t.co/FxMyuNtaTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914677106241655170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914670018786132397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "シャキーンと光ってるさつ子🌟\nSnow9urialちゃんありがとう😘\n#kakusatsuko #coakira #satsukofanart https://t.co/FxMyuNtaTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核爱好者，くるいんちゅ，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T11:43:30.000Z",
+        "description": "Hardcore Techno Musician \"Coakira\"のイメージキャラクター「kakusatsuko（核さつ子）」のアカウントです！\nCoakira : https://t.co/4BNcmBjxRr\ncluster : https://t.co/t4n91qKYhD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/akiradeath",
+                "end": 107,
+                "expanded_url": "https://x.com/akiradeath",
+                "start": 84,
+                "url": "https://t.co/4BNcmBjxRr"
+              },
+              {
+                "display_url": "cluster.mu/u/Coakira",
+                "end": 141,
+                "expanded_url": "https://cluster.mu/u/Coakira",
+                "start": 118,
+                "url": "https://t.co/t4n91qKYhD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/coakiradeath",
+                "end": 23,
+                "expanded_url": "https://lit.link/coakiradeath",
+                "start": 0,
+                "url": "https://t.co/FoQJqGo2rk"
+              }
+            ]
+          }
+        },
+        "id": "1786722923899977728",
+        "name": "kakusatsuko（核さつ子）",
+        "pinned_tweet_id": "1902706410456240545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913909281164042240/F6IRwWzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 393,
+          "like_count": 4472,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/FoQJqGo2rk",
+        "username": "kakusatsuko",
+        "verified": false
+      }
+    ]
+  }
+}

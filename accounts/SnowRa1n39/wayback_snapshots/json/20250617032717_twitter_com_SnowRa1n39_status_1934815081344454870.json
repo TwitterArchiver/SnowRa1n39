@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933162974619054080"
+      ],
+      "media_source_tweet_id": [
+        "1933162981422170553"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1934815081344454870",
+    "created_at": "2025-06-17T03:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T04:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934815081344454870"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "たのあーと"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1611314171307773955",
+          "start": 3,
+          "username": "lazZw9QLEYqRQVy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXwmgySytt",
+          "end": 51,
+          "expanded_url": "https://x.com/lazZw9QLEYqRQVy/status/1933162981422170553/photo/1",
+          "media_key": "3_1933162974619054080",
+          "start": 28,
+          "url": "https://t.co/OXwmgySytt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934815081344454870",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933162981422170553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lazZw9QLEYqRQVy: #たのあーと https://t.co/OXwmgySytt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_1933162974619054080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtP5e6sbMAApia5.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933162974619054080"
+          ],
+          "media_source_tweet_id": [
+            "1933162981422170553"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1934815081344454870",
+        "created_at": "2025-06-17T03:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T04:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934815081344454870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "たのあーと"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1611314171307773955",
+              "start": 3,
+              "username": "lazZw9QLEYqRQVy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXwmgySytt",
+              "end": 51,
+              "expanded_url": "https://x.com/lazZw9QLEYqRQVy/status/1933162981422170553/photo/1",
+              "media_key": "3_1933162974619054080",
+              "start": 28,
+              "url": "https://t.co/OXwmgySytt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934815081344454870",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933162981422170553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lazZw9QLEYqRQVy: #たのあーと https://t.co/OXwmgySytt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933162974619054080"
+          ]
+        },
+        "author_id": "1611314171307773955",
+        "conversation_id": "1933162981422170553",
+        "created_at": "2025-06-12T14:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T15:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933162981422170553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "たのあーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXwmgySytt",
+              "end": 30,
+              "expanded_url": "https://x.com/lazZw9QLEYqRQVy/status/1933162981422170553/photo/1",
+              "media_key": "3_1933162974619054080",
+              "start": 7,
+              "url": "https://t.co/OXwmgySytt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933162981422170553",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3811,
+          "like_count": 243,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "#たのあーと https://t.co/OXwmgySytt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 53,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 59
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T10:50:33.000Z",
+        "description": "",
+        "id": "1611314171307773955",
+        "name": "へ。",
+        "pinned_tweet_id": "1815373965034131858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753049090097856512/m-Zfsa5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 252
+        },
+        "username": "lazZw9QLEYqRQVy",
+        "verified": false
+      }
+    ]
+  }
+}

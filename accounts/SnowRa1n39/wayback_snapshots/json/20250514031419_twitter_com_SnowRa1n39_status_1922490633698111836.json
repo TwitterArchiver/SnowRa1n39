@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922229703852822528"
+      ],
+      "media_source_tweet_id": [
+        "1922229714812367126"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1922490633698111836",
+    "created_at": "2025-05-14T03:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922490633698111836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yb1W9r9i79",
+          "end": 53,
+          "expanded_url": "https://x.com/myosuke/status/1922229714812367126/photo/1",
+          "media_key": "3_1922229703852822528",
+          "start": 30,
+          "url": "https://t.co/yb1W9r9i79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922490633698111836",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922229714812367126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: While Shining... https://t.co/yb1W9r9i79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1922229703852822528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0huzLaEAANMU4.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922229703852822528"
+          ],
+          "media_source_tweet_id": [
+            "1922229714812367126"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1922490633698111836",
+        "created_at": "2025-05-14T03:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922490633698111836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb1W9r9i79",
+              "end": 53,
+              "expanded_url": "https://x.com/myosuke/status/1922229714812367126/photo/1",
+              "media_key": "3_1922229703852822528",
+              "start": 30,
+              "url": "https://t.co/yb1W9r9i79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922490633698111836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922229714812367126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: While Shining... https://t.co/yb1W9r9i79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922229703852822528"
+          ]
+        },
+        "author_id": "62045827",
+        "conversation_id": "1922229714812367126",
+        "created_at": "2025-05-13T09:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T10:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922229714812367126"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Shining",
+              "probability": 0.4875,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb1W9r9i79",
+              "end": 40,
+              "expanded_url": "https://x.com/myosuke/status/1922229714812367126/photo/1",
+              "media_key": "3_1922229703852822528",
+              "start": 17,
+              "url": "https://t.co/yb1W9r9i79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922229714812367126",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 20497,
+          "like_count": 863,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "While Shining... https://t.co/yb1W9r9i79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 47
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n激しい曲を作ります⚠\n\n┊HARDCORE TANO*C所属\n┊YouTube→https://t.co/maaallUW10\n┊🌚→@joe__fight\n┊日常→@dj_myosuke\n┊楽曲提供→\nチュウニズム、 Arcaea、太鼓の達人、WACCA、IIDX等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "joe__fight"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dj_myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 81,
+                "expanded_url": "http://youtube.com/djmyosuke",
+                "start": 58,
+                "url": "https://t.co/maaallUW10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "1913181965303550161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756930680666398720/9yAThqDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57477,
+          "following_count": 704,
+          "like_count": 10259,
+          "listed_count": 363,
+          "media_count": 7482,
+          "tweet_count": 47390
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

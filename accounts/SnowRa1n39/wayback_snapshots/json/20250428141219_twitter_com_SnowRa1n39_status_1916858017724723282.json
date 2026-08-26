@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916857976092061697"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1916858017724723282",
+    "created_at": "2025-04-28T14:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916858017724723282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jHV3ioGAQu",
+          "end": 23,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1916858017724723282/photo/1",
+          "media_key": "3_1916857976092061697",
+          "start": 0,
+          "url": "https://t.co/jHV3ioGAQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916858017724723282",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jHV3ioGAQu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916857976092061697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoMLF3XcAEHwK8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916857976092061697"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1916858017724723282",
+        "created_at": "2025-04-28T14:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916858017724723282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHV3ioGAQu",
+              "end": 23,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1916858017724723282/photo/1",
+              "media_key": "3_1916857976092061697",
+              "start": 0,
+              "url": "https://t.co/jHV3ioGAQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916858017724723282",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jHV3ioGAQu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

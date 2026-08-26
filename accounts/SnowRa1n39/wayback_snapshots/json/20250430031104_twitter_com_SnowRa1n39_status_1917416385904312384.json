@@ -1,0 +1,718 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917256201378877440",
+        "3_1917256223285731331"
+      ],
+      "media_source_tweet_id": [
+        "1917257111664549897",
+        "1917257111664549897"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418273003423469570",
+          "name": "Pixiv Booth"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418273003423469570",
+          "name": "Pixiv Booth"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "1917416385904312384",
+    "created_at": "2025-04-30T03:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T04:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917416385904312384"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "ゆうさん",
+          "probability": 0.8278,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 40,
+          "tag": "EverRock"
+        },
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "vroid"
+        },
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "cluster"
+        },
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "VRChat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786722923899977728",
+          "start": 3,
+          "username": "kakusatsuko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2257qzoq7L",
+          "end": 97,
+          "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+          "media_key": "3_1917256201378877440",
+          "start": 74,
+          "url": "https://t.co/2257qzoq7L"
+        },
+        {
+          "display_url": "pic.x.com/2257qzoq7L",
+          "end": 97,
+          "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+          "media_key": "3_1917256223285731331",
+          "start": 74,
+          "url": "https://t.co/2257qzoq7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917416385904312384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917257111664549897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakusatsuko: ゆうさんのズートスーツ着てみた～粋な装い😉👍\n#EverRock #vroid #cluster #VRChat https://t.co/2257qzoq7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1917256201378877440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpt2W2qaUAAXJIP.jpg",
+        "width": 3115
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1917256223285731331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpt2YIRaYAMClJ-.jpg",
+        "width": 3115
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917256201378877440",
+            "3_1917256223285731331"
+          ],
+          "media_source_tweet_id": [
+            "1917257111664549897",
+            "1917257111664549897"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1917416385904312384",
+        "created_at": "2025-04-30T03:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T04:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917416385904312384"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ゆうさん",
+              "probability": 0.8278,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 40,
+              "tag": "EverRock"
+            },
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "vroid"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "cluster"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "VRChat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786722923899977728",
+              "start": 3,
+              "username": "kakusatsuko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2257qzoq7L",
+              "end": 97,
+              "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+              "media_key": "3_1917256201378877440",
+              "start": 74,
+              "url": "https://t.co/2257qzoq7L"
+            },
+            {
+              "display_url": "pic.x.com/2257qzoq7L",
+              "end": 97,
+              "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+              "media_key": "3_1917256223285731331",
+              "start": 74,
+              "url": "https://t.co/2257qzoq7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917416385904312384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917257111664549897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakusatsuko: ゆうさんのズートスーツ着てみた～粋な装い😉👍\n#EverRock #vroid #cluster #VRChat https://t.co/2257qzoq7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917256201378877440",
+            "3_1917256223285731331"
+          ]
+        },
+        "author_id": "1786722923899977728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1917257111664549897",
+        "created_at": "2025-04-29T16:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T17:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917257111664549897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ゆうさん",
+              "probability": 0.8461,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "EverRock"
+            },
+            {
+              "end": 39,
+              "start": 33,
+              "tag": "vroid"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "cluster"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2257qzoq7L",
+              "end": 80,
+              "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+              "media_key": "3_1917256201378877440",
+              "start": 57,
+              "url": "https://t.co/2257qzoq7L"
+            },
+            {
+              "display_url": "pic.x.com/2257qzoq7L",
+              "end": 80,
+              "expanded_url": "https://x.com/kakusatsuko/status/1917257111664549897/photo/1",
+              "media_key": "3_1917256223285731331",
+              "start": 57,
+              "url": "https://t.co/2257qzoq7L"
+            },
+            {
+              "display_url": "x.com/EverRockYou/st…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/EverRockYou/status/1917245692818690274",
+              "start": 81,
+              "url": "https://t.co/f2mq85EMFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917257111664549897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 593,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917245692818690274",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ゆうさんのズートスーツ着てみた～粋な装い😉👍\n#EverRock #vroid #cluster #VRChat https://t.co/2257qzoq7L https://t.co/f2mq85EMFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 50,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T11:43:30.000Z",
+        "description": "Hardcore Techno Musician \"Coakira\"のイメージキャラクター「kakusatsuko（核さつ子）」のアカウントです！\nCoakira : https://t.co/4BNcmBjxRr\ncluster : https://t.co/t4n91qKYhD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/akiradeath",
+                "end": 107,
+                "expanded_url": "https://x.com/akiradeath",
+                "start": 84,
+                "url": "https://t.co/4BNcmBjxRr"
+              },
+              {
+                "display_url": "cluster.mu/u/Coakira",
+                "end": 141,
+                "expanded_url": "https://cluster.mu/u/Coakira",
+                "start": 118,
+                "url": "https://t.co/t4n91qKYhD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/coakiradeath",
+                "end": 23,
+                "expanded_url": "https://lit.link/coakiradeath",
+                "start": 0,
+                "url": "https://t.co/FoQJqGo2rk"
+              }
+            ]
+          }
+        },
+        "id": "1786722923899977728",
+        "name": "kakusatsuko（核さつ子）",
+        "pinned_tweet_id": "1902706410456240545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913909281164042240/F6IRwWzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 399,
+          "like_count": 4593,
+          "listed_count": 2,
+          "media_count": 430,
+          "tweet_count": 1600
+        },
+        "url": "https://t.co/FoQJqGo2rk",
+        "username": "kakusatsuko",
+        "verified": false
+      }
+    ]
+  }
+}

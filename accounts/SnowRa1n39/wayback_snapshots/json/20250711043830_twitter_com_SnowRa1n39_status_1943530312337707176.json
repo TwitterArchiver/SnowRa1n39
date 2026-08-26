@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1930231147575029765"
+      ],
+      "media_source_tweet_id": [
+        "1930231206198817098"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943530312337707176",
+    "created_at": "2025-07-11T04:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T05:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943530312337707176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1763709014368808960",
+          "start": 3,
+          "username": "dj_myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aS4GjrNl0l",
+          "end": 41,
+          "expanded_url": "https://x.com/dj_myosuke/status/1930231206198817098/video/1",
+          "media_key": "13_1930231147575029765",
+          "start": 18,
+          "url": "https://t.co/aS4GjrNl0l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943530312337707176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930231206198817098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dj_myosuke: w https://t.co/aS4GjrNl0l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4485,
+        "height": 968,
+        "media_key": "13_1930231147575029765",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930231147575029765/img/1SMQ-K165izviwUH.jpg",
+        "public_metrics": {
+          "view_count": 4596
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930231147575029765/vid/avc1/320x430/tqKvibov7UqtrqNU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930231147575029765/vid/avc1/480x644/wpIfwdXwDneVT-7v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930231147575029765/vid/avc1/720x968/ppfAuId0DwAcC0u4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930231147575029765/pl/-nQvmQMz3aPmkgIQ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930231147575029765"
+          ],
+          "media_source_tweet_id": [
+            "1930231206198817098"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943530312337707176",
+        "created_at": "2025-07-11T04:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T05:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943530312337707176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763709014368808960",
+              "start": 3,
+              "username": "dj_myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aS4GjrNl0l",
+              "end": 41,
+              "expanded_url": "https://x.com/dj_myosuke/status/1930231206198817098/video/1",
+              "media_key": "13_1930231147575029765",
+              "start": 18,
+              "url": "https://t.co/aS4GjrNl0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943530312337707176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930231206198817098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dj_myosuke: w https://t.co/aS4GjrNl0l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930231147575029765"
+          ]
+        },
+        "author_id": "1763709014368808960",
+        "conversation_id": "1930231206198817098",
+        "created_at": "2025-06-04T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930231206198817098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aS4GjrNl0l",
+              "end": 25,
+              "expanded_url": "https://x.com/dj_myosuke/status/1930231206198817098/video/1",
+              "media_key": "13_1930231147575029765",
+              "start": 2,
+              "url": "https://t.co/aS4GjrNl0l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930231206198817098",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 12845,
+          "like_count": 456,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "w https://t.co/aS4GjrNl0l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 55,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 70
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T23:33:05.000Z",
+        "description": "サブアカ作りました！ みんなが笑顔になれるような楽しい投稿をします！ 本アカ→@myosuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 39,
+                "username": "myosuke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/0u7v4RHxfO"
+              }
+            ]
+          }
+        },
+        "id": "1763709014368808960",
+        "location": "ツイ消ししまくる",
+        "name": "DJ Myosuke 🈂️ブ",
+        "pinned_tweet_id": "1763709561578684555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831221357750988801/kMf4nYt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 31,
+          "like_count": 1098,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/0u7v4RHxfO",
+        "username": "dj_myosuke",
+        "verified": false
+      }
+    ]
+  }
+}

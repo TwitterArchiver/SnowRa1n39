@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "1921880727676674382",
+    "created_at": "2025-05-12T10:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1921880727676674382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/joe__fight/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/joe__fight/status/1921165157050577332",
+          "start": 6,
+          "url": "https://t.co/JTFRdlxMAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921880727676674382",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921165157050577332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上电视⭐⭐ https://t.co/JTFRdlxMAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57640,
+        "height": 1280,
+        "media_key": "13_1921164657118900227",
+        "preview_image_url": "https://pbs.twimg.com/media/GqlZWLNbcAEpOm4.jpg",
+        "public_metrics": {
+          "view_count": 2491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921164657118900227/vid/avc1/1080x1920/BjtbpVVN7F0feRBD.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921164657118900227/vid/avc1/320x568/fj-T8mQBxnRCuaRL.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921164657118900227/vid/avc1/720x1280/gkFgKbB3-l6nRk0x.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1921164657118900227/pl/Tie4Fb8fjMQ07gJE.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1921164657118900227/vid/avc1/480x852/LDbF7_Fh-v-lhnO0.mp4?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "1921880727676674382",
+        "created_at": "2025-05-12T10:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921880727676674382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/joe__fight/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/joe__fight/status/1921165157050577332",
+              "start": 6,
+              "url": "https://t.co/JTFRdlxMAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921880727676674382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921165157050577332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上电视⭐⭐ https://t.co/JTFRdlxMAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1921164657118900227"
+          ]
+        },
+        "author_id": "1526222170363289601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921165157050577332",
+        "created_at": "2025-05-10T11:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921165157050577332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "おとでかーと"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XUFoOkB5GP",
+              "end": 78,
+              "expanded_url": "https://x.com/joe__fight/status/1921165157050577332/video/1",
+              "media_key": "13_1921164657118900227",
+              "start": 55,
+              "url": "https://t.co/XUFoOkB5GP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921165157050577332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9044,
+          "like_count": 381,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "かわいいファンアートをまとめたよっ☆\nだってメイドの日だから！全部大好き！\n元投稿はこちら→ #おとでかーと https://t.co/XUFoOkB5GP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 46
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T15:25:06.000Z",
+        "description": "音デカVTuberジョーファイトです🌚\n検索してはいけない言葉入り\nチュウニズムに曲とアバター収録\n\n┊YouTube (9千人)：https://t.co/yWE86NmuvT\n┊TikTok (24万人)：https://t.co/jl8CsFsB1g\n┊親：@myosuke",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 132,
+                "username": "myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/JoeFight",
+                "end": 89,
+                "expanded_url": "https://www.youtube.com/JoeFight",
+                "start": 66,
+                "url": "https://t.co/yWE86NmuvT"
+              },
+              {
+                "display_url": "tiktok.com/@joe_fight",
+                "end": 128,
+                "expanded_url": "https://www.tiktok.com/@joe_fight",
+                "start": 105,
+                "url": "https://t.co/jl8CsFsB1g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com/discog.html",
+                "end": 23,
+                "expanded_url": "https://myosuke.com/discog.html",
+                "start": 0,
+                "url": "https://t.co/UptCsq2aMo"
+              }
+            ]
+          }
+        },
+        "id": "1526222170363289601",
+        "location": "ご連絡はDJ Myosukeまで",
+        "name": "Joe Fight",
+        "pinned_tweet_id": "1913189514744566005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913939950590111744/MZ843a_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6134,
+          "following_count": 57,
+          "like_count": 940,
+          "listed_count": 8,
+          "media_count": 212,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/UptCsq2aMo",
+        "username": "joe__fight",
+        "verified": true
+      }
+    ]
+  }
+}

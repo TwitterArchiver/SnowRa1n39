@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1914235475558387712"
+      ],
+      "media_source_tweet_id": [
+        "1914236164984430845"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "DJs",
+          "id": "847526099986685952",
+          "name": "DJs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      }
+    ],
+    "conversation_id": "1914469136551264681",
+    "created_at": "2025-04-21T23:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T00:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914469136551264681"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "DJ Satsuko",
+          "probability": 0.3831,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "シエルメル"
+        },
+        {
+          "end": 81,
+          "start": 70,
+          "tag": "スピードコアアイドル"
+        },
+        {
+          "end": 98,
+          "start": 82,
+          "tag": "KAWAIISPEEDCORE"
+        },
+        {
+          "end": 107,
+          "start": 99,
+          "tag": "Coakira"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786722923899977728",
+          "start": 3,
+          "username": "kakusatsuko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JEYTZW3irf",
+          "end": 131,
+          "expanded_url": "https://x.com/kakusatsuko/status/1914236164984430845/video/1",
+          "media_key": "13_1914235475558387712",
+          "start": 108,
+          "url": "https://t.co/JEYTZW3irf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914469136551264681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914236164984430845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kakusatsuko: DJ Satsukoがお送りする今週のおススメ曲💿\nシエルメル『みんなが好きなわたし』💞\n\n#シエルメル #スピードコアアイドル #KAWAIISPEEDCORE #Coakira https://t.co/JEYTZW3irf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42840,
+        "height": 1080,
+        "media_key": "13_1914235475558387712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1914235475558387712/img/2EUAA0ra8r9SebhD.jpg",
+        "public_metrics": {
+          "view_count": 246
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914235475558387712/vid/avc1/480x270/xroexKx0L-K4pgqY.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914235475558387712/vid/avc1/640x360/AD9L2wHDas-tLvZ_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1914235475558387712/vid/avc1/1280x720/cPWks0Haku83fvh3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1914235475558387712/pl/FJwW8gsceiKBm1TN.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914235475558387712"
+          ],
+          "media_source_tweet_id": [
+            "1914236164984430845"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "1914469136551264681",
+        "created_at": "2025-04-21T23:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T00:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914469136551264681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "DJ Satsuko",
+              "probability": 0.3831,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "シエルメル"
+            },
+            {
+              "end": 81,
+              "start": 70,
+              "tag": "スピードコアアイドル"
+            },
+            {
+              "end": 98,
+              "start": 82,
+              "tag": "KAWAIISPEEDCORE"
+            },
+            {
+              "end": 107,
+              "start": 99,
+              "tag": "Coakira"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786722923899977728",
+              "start": 3,
+              "username": "kakusatsuko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEYTZW3irf",
+              "end": 131,
+              "expanded_url": "https://x.com/kakusatsuko/status/1914236164984430845/video/1",
+              "media_key": "13_1914235475558387712",
+              "start": 108,
+              "url": "https://t.co/JEYTZW3irf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914469136551264681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914236164984430845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kakusatsuko: DJ Satsukoがお送りする今週のおススメ曲💿\nシエルメル『みんなが好きなわたし』💞\n\n#シエルメル #スピードコアアイドル #KAWAIISPEEDCORE #Coakira https://t.co/JEYTZW3irf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1914235475558387712"
+          ]
+        },
+        "author_id": "1786722923899977728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "DJs",
+              "id": "847526099986685952",
+              "name": "DJs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          }
+        ],
+        "conversation_id": "1914236164984430845",
+        "created_at": "2025-04-21T08:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T09:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914236164984430845"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "DJ Satsuko",
+              "probability": 0.4138,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 46,
+              "tag": "シエルメル"
+            },
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "スピードコアアイドル"
+            },
+            {
+              "end": 81,
+              "start": 65,
+              "tag": "KAWAIISPEEDCORE"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "Coakira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEYTZW3irf",
+              "end": 114,
+              "expanded_url": "https://x.com/kakusatsuko/status/1914236164984430845/video/1",
+              "media_key": "13_1914235475558387712",
+              "start": 91,
+              "url": "https://t.co/JEYTZW3irf"
+            },
+            {
+              "display_url": "x.com/akiradeath/sta…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/akiradeath/status/1913557960137089214",
+              "start": 115,
+              "url": "https://t.co/kltIdfUEXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914236164984430845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1138,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913557960137089214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "DJ Satsukoがお送りする今週のおススメ曲💿\nシエルメル『みんなが好きなわたし』💞\n\n#シエルメル #スピードコアアイドル #KAWAIISPEEDCORE #Coakira https://t.co/JEYTZW3irf https://t.co/kltIdfUEXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核爱好者，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 28,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T11:43:30.000Z",
+        "description": "Hardcore Techno Musician \"Coakira\"のイメージキャラクター「kakusatsuko（核さつ子）」のアカウントです！\nCoakira : https://t.co/4BNcmBjxRr\ncluster : https://t.co/t4n91qKYhD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/akiradeath",
+                "end": 107,
+                "expanded_url": "https://x.com/akiradeath",
+                "start": 84,
+                "url": "https://t.co/4BNcmBjxRr"
+              },
+              {
+                "display_url": "cluster.mu/u/Coakira",
+                "end": 141,
+                "expanded_url": "https://cluster.mu/u/Coakira",
+                "start": 118,
+                "url": "https://t.co/t4n91qKYhD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/coakiradeath",
+                "end": 23,
+                "expanded_url": "https://lit.link/coakiradeath",
+                "start": 0,
+                "url": "https://t.co/FoQJqGo2rk"
+              }
+            ]
+          }
+        },
+        "id": "1786722923899977728",
+        "name": "kakusatsuko（核さつ子）",
+        "pinned_tweet_id": "1902706410456240545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913909281164042240/F6IRwWzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 392,
+          "like_count": 4468,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/FoQJqGo2rk",
+        "username": "kakusatsuko",
+        "verified": false
+      }
+    ]
+  }
+}

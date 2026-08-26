@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915699727892439040"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1915699748977144128",
+    "created_at": "2025-04-25T09:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T10:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915699748977144128"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 99,
+          "start": 87,
+          "tag": "kakusatsuko"
+        },
+        {
+          "end": 108,
+          "start": 100,
+          "tag": "coakira"
+        },
+        {
+          "end": 123,
+          "start": 109,
+          "tag": "satsukofanart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCVkXynzaU",
+          "end": 147,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1915699748977144128/photo/1",
+          "media_key": "3_1915699727892439040",
+          "start": 124,
+          "url": "https://t.co/qCVkXynzaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915699748977144128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然のはっそう発想！螺鈿細工と金属元素を組み合わせた核さつ子のイメージに基づいた団扇デザインで、いつか実物に作ってみたいと思っています（機械翻訳が規格外で申し訳ありません）\n#kakusatsuko #coakira #satsukofanart https://t.co/qCVkXynzaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915699727892439040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpXuwLFXYAA7LsF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915699727892439040"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1915699748977144128",
+        "created_at": "2025-04-25T09:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T10:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915699748977144128"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 87,
+              "tag": "kakusatsuko"
+            },
+            {
+              "end": 108,
+              "start": 100,
+              "tag": "coakira"
+            },
+            {
+              "end": 123,
+              "start": 109,
+              "tag": "satsukofanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCVkXynzaU",
+              "end": 147,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1915699748977144128/photo/1",
+              "media_key": "3_1915699727892439040",
+              "start": 124,
+              "url": "https://t.co/qCVkXynzaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915699748977144128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然のはっそう発想！螺鈿細工と金属元素を組み合わせた核さつ子のイメージに基づいた団扇デザインで、いつか実物に作ってみたいと思っています（機械翻訳が規格外で申し訳ありません）\n#kakusatsuko #coakira #satsukofanart https://t.co/qCVkXynzaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

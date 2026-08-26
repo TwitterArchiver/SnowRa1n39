@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2078525658599465024",
+    "created_at": "2026-07-21T03:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079404492924354883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1680039839209775107",
+          "start": 0,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079404492924354883",
+    "in_reply_to_user_id": "1680039839209775107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079404376192590299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1tk0 收到！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2078525658599465024",
+        "created_at": "2026-07-21T03:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079404492924354883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1680039839209775107",
+              "start": 0,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079404492924354883",
+        "in_reply_to_user_id": "1680039839209775107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079404376192590299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1tk0 收到！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680039839209775107",
+        "conversation_id": "2078525658599465024",
+        "created_at": "2026-07-21T03:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079404376192590299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079404376192590299",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078525658599465024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 《恋人不行》\n前七卷都是神迹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 🚪52",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 97,
+          "like_count": 1171,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1tk0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1tk0",
+                "start": 0,
+                "url": "https://t.co/ipMVUM8qku"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 402,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/ipMVUM8qku",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

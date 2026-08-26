@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "1974822348391067866",
+    "created_at": "2025-10-05T14:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T15:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974846053494231142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1590365971512176640",
+          "start": 0,
+          "username": "ponyBob233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974846053494231142",
+    "in_reply_to_user_id": "1590365971512176640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974836611264434502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ponyBob233 😭😭😭感谢喜欢🥹❤️❤️❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "1974822348391067866",
+        "created_at": "2025-10-05T14:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T15:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974846053494231142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1590365971512176640",
+              "start": 0,
+              "username": "ponyBob233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974846053494231142",
+        "in_reply_to_user_id": "1590365971512176640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974836611264434502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ponyBob233 😭😭😭感谢喜欢🥹❤️❤️❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590365971512176640",
+        "conversation_id": "1974822348391067866",
+        "created_at": "2025-10-05T13:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974836611264434502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974836611264434502",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974822348391067866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 我的马这也太可爱了!!!!殺子tag吃上国宴了……😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 61,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 98
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T15:29:41.000Z",
+        "description": "兔子愛好者",
+        "id": "1590365971512176640",
+        "location": "Hogwarts",
+        "name": "pony Bob",
+        "pinned_tweet_id": "1929215822414635421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972330401621491712/mIM60lI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 844,
+          "like_count": 25855,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 11358
+        },
+        "username": "ponyBob233",
+        "verified": false
+      }
+    ]
+  }
+}

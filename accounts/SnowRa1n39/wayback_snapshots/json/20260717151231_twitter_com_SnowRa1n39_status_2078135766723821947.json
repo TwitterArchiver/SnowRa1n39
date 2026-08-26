@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2076304115391742376",
+    "created_at": "2026-07-17T15:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078135766723821947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035888032780529664",
+          "start": 0,
+          "username": "ELRapenty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078135766723821947",
+    "in_reply_to_user_id": "2035888032780529664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078107835486081079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ELRapenty 🥺🥺🩵🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2076304115391742376",
+        "created_at": "2026-07-17T15:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078135766723821947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035888032780529664",
+              "start": 0,
+              "username": "ELRapenty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078135766723821947",
+        "in_reply_to_user_id": "2035888032780529664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078107835486081079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ELRapenty 🥺🥺🩵🩵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035888032780529664",
+        "conversation_id": "2076304115391742376",
+        "created_at": "2026-07-17T13:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078107835486081079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078107835486081079",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076304115391742376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 寻回大成功"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 72,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T01:15:31.000Z",
+        "description": "07 大二 mai批\n工科蛆大一上挂了四科…\n毫无自主学习能力，这可能是初中抑郁休学留下的后遗症/98%健全人/快来和我互fo！！！/@ELNANASAN阴暗人格",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "ELNANASAN"
+              }
+            ]
+          }
+        },
+        "id": "2035888032780529664",
+        "name": "EL_73",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069071677011685377/Q7r0Sg7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 93,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "ELRapenty",
+        "verified": true
+      }
+    ]
+  }
+}

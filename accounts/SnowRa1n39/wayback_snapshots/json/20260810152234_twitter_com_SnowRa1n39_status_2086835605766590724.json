@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2086678557749858464",
+    "created_at": "2026-08-10T15:22:34.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086835605766590724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905299964332544000",
+          "start": 0,
+          "username": "LixuL83526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086835605766590724",
+    "in_reply_to_user_id": "1905299964332544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086722615075631262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LixuL83526 没东西o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2086678557749858464",
+        "created_at": "2026-08-10T15:22:34.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086835605766590724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905299964332544000",
+              "start": 0,
+              "username": "LixuL83526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086835605766590724",
+        "in_reply_to_user_id": "1905299964332544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086722615075631262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LixuL83526 没东西o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905299964332544000",
+        "conversation_id": "2086678557749858464",
+        "created_at": "2026-08-10T07:53:35.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086722615075631262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086722615075631262",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086678557749858464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 那就O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086835605766590724",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914248090048991232/1745232059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 103,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T16:45:08.000Z",
+        "description": "哥们200多斤 讨厌的请勿扰！哥们就是🐷逼！",
+        "id": "1905299964332544000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086834575720980790",
+        "name": "ling灵",
+        "pinned_tweet_id": "2085062495266615702",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058901431319736320/lux5TMnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 160,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "LixuL83526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

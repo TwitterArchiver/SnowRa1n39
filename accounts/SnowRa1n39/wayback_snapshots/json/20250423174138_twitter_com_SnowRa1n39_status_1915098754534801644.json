@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915098728710459392",
+        "3_1915098728702058496"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1915098754534801644",
+    "created_at": "2025-04-23T17:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T18:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915098754534801644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s6Cph0fyVJ",
+          "end": 33,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1915098754534801644/photo/1",
+          "media_key": "3_1915098728710459392",
+          "start": 10,
+          "url": "https://t.co/s6Cph0fyVJ"
+        },
+        {
+          "display_url": "pic.x.com/s6Cph0fyVJ",
+          "end": 33,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1915098754534801644/photo/1",
+          "media_key": "3_1915098728702058496",
+          "start": 10,
+          "url": "https://t.co/s6Cph0fyVJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915098754534801644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还会再继续深入它 https://t.co/s6Cph0fyVJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915098728710459392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpPMJaqW0AAejpw.jpg",
+        "width": 1431
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915098728702058496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpPMJaoWoAAOSvJ.jpg",
+        "width": 1431
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915098728710459392",
+            "3_1915098728702058496"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1915098754534801644",
+        "created_at": "2025-04-23T17:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T18:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915098754534801644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s6Cph0fyVJ",
+              "end": 33,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1915098754534801644/photo/1",
+              "media_key": "3_1915098728710459392",
+              "start": 10,
+              "url": "https://t.co/s6Cph0fyVJ"
+            },
+            {
+              "display_url": "pic.x.com/s6Cph0fyVJ",
+              "end": 33,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1915098754534801644/photo/1",
+              "media_key": "3_1915098728702058496",
+              "start": 10,
+              "url": "https://t.co/s6Cph0fyVJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915098754534801644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还会再继续深入它 https://t.co/s6Cph0fyVJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核爱好者，くるいんちゅ，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 42,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

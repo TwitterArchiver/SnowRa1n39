@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2077986204797243568",
+    "created_at": "2026-07-18T01:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078297168134496425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1820207828931424256",
+          "start": 0,
+          "username": "neko0202002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078297168134496425",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077986204797243568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko0202002 这特么是吞药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077986202612072448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZ9cQ7bAAAbI9x.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2077986204797243568",
+        "created_at": "2026-07-18T01:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078297168134496425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078297168134496425",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077986204797243568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 这特么是吞药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077986202612072448"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077986204797243568",
+        "created_at": "2026-07-17T05:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T06:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077986204797243568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RLWt225iR",
+              "end": 28,
+              "expanded_url": "https://x.com/neko0202002/status/2077986204797243568/photo/1",
+              "media_key": "3_2077986202612072448",
+              "start": 5,
+              "url": "https://t.co/1RLWt225iR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077986204797243568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 944,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "何意为？ https://t.co/1RLWt225iR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 76,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 658,
+          "like_count": 2450,
+          "listed_count": 2,
+          "media_count": 2393,
+          "tweet_count": 6323
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

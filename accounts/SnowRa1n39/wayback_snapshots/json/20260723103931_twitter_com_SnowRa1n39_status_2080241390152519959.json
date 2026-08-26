@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2076304115391742376",
+    "created_at": "2026-07-23T10:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080241390152519959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780453601787133953",
+          "start": 0,
+          "username": "loveit_1369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080241390152519959",
+    "in_reply_to_user_id": "1780453601787133953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080195317551821299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveit_1369 墙内的🚪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2076304115391742376",
+        "created_at": "2026-07-23T10:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080241390152519959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780453601787133953",
+              "start": 0,
+              "username": "loveit_1369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080241390152519959",
+        "in_reply_to_user_id": "1780453601787133953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080195317551821299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveit_1369 墙内的🚪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780453601787133953",
+        "conversation_id": "2076304115391742376",
+        "created_at": "2026-07-23T07:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080195317551821299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080195317551821299",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076304115391742376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 搜了好久终于搜到你了但是你怎么有🚪了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 🚪52",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 104,
+          "like_count": 1560,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-17T04:30:04.000Z",
+        "description": "放弃相处，纯负能量宣发。不好看可以屏蔽我但是请不要骂我，我害怕网络暴力🥲\n当日记本写",
+        "id": "1780453601787133953",
+        "name": "知らない",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844405856215134208/U9oYBdq2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 30,
+          "like_count": 943,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "loveit_1369",
+        "verified": false
+      }
+    ]
+  }
+}

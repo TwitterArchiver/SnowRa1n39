@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2082475245789938151",
+    "created_at": "2026-07-29T16:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082504752567591316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762178935012610048",
+          "start": 0,
+          "username": "rLMj8iYK5v3459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082504752567591316",
+    "in_reply_to_user_id": "1762178935012610048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082480401420017902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rLMj8iYK5v3459 是啊好贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2082475245789938151",
+        "created_at": "2026-07-29T16:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082504752567591316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762178935012610048",
+              "start": 0,
+              "username": "rLMj8iYK5v3459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082504752567591316",
+        "in_reply_to_user_id": "1762178935012610048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082480401420017902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rLMj8iYK5v3459 是啊好贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762178935012610048",
+        "conversation_id": "2082475245789938151",
+        "created_at": "2026-07-29T14:56:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:56:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082480401420017902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082480401420017902",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082475245789938151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 贵贵的🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 110,
+          "like_count": 2112,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，可以找我聊天喵，看看比那种滚，直fo就是眼熟你喜欢你😽，查成分回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qi56064",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qi56064",
+                "start": 0,
+                "url": "https://t.co/9JIUprWKlu"
+              }
+            ]
+          }
+        },
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "pinned_tweet_id": "2080365623264121225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 138,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/9JIUprWKlu",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      }
+    ]
+  }
+}

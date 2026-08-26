@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2080129940352328100",
+    "created_at": "2026-07-24T15:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080675750236352774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598195391651991552",
+          "start": 0,
+          "username": "qwertyu33080744"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080675750236352774",
+    "in_reply_to_user_id": "1598195391651991552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080673396866654663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwertyu33080744 可以可以，感谢推荐哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2080129940352328100",
+        "created_at": "2026-07-24T15:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080675750236352774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598195391651991552",
+              "start": 0,
+              "username": "qwertyu33080744"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080675750236352774",
+        "in_reply_to_user_id": "1598195391651991552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080673396866654663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwertyu33080744 可以可以，感谢推荐哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598195391651991552",
+        "conversation_id": "2080129940352328100",
+        "created_at": "2026-07-24T15:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080673396866654663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080673396866654663",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080129940352328100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 吃饭，夜市路边摊小店什么的来一份尝尝，看路边的广告牌，指给对方看，聊聊天，逛商场，看一些新奇的玩意或者在各种杂货中乱看，查手机看当地安利什么，离得近可以搞两个共享单车慢慢骑过去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 🚪52",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 112,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T06:00:59.000Z",
+        "description": "幽默幻想，坚强且社恐的孤僻型人格坚强是肯经常违背自己的个人意愿人很倒霉我爱的人都离我远去被情所伤封心锁爱，NFSW别找我色了我只接受交朋友，🔪轻度抑郁，讨厌别人碰我，不想被讨厌，喜欢别人喜欢我🥺，粘人，腰椎间盘突出，🎨想做个小哑巴，死亡美颜滤镜，小懿",
+        "id": "1598195391651991552",
+        "location": "America",
+        "name": "qwerty",
+        "pinned_tweet_id": "1752274166672425228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957233904017940480/MEvUoARo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1721,
+          "following_count": 1138,
+          "like_count": 10027,
+          "listed_count": 5,
+          "media_count": 756,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "qwertyu33080744",
+        "verified": false
+      }
+    ]
+  }
+}

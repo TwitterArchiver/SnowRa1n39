@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921744216142884865"
+      ],
+      "media_source_tweet_id": [
+        "1921744237843853821"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1921880408574013901",
+    "created_at": "2025-05-12T10:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T11:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921880408574013901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVgnVmADsq",
+          "end": 39,
+          "expanded_url": "https://x.com/myosuke/status/1921744237843853821/photo/1",
+          "media_key": "3_1921744216142884865",
+          "start": 16,
+          "url": "https://t.co/tVgnVmADsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921880408574013901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921744237843853821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: 仲間 https://t.co/tVgnVmADsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1921744216142884865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqtoLshbsAERd0o.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921744216142884865"
+          ],
+          "media_source_tweet_id": [
+            "1921744237843853821"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1921880408574013901",
+        "created_at": "2025-05-12T10:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T11:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921880408574013901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVgnVmADsq",
+              "end": 39,
+              "expanded_url": "https://x.com/myosuke/status/1921744237843853821/photo/1",
+              "media_key": "3_1921744216142884865",
+              "start": 16,
+              "url": "https://t.co/tVgnVmADsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921880408574013901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921744237843853821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: 仲間 https://t.co/tVgnVmADsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921744216142884865"
+          ]
+        },
+        "author_id": "62045827",
+        "conversation_id": "1921744237843853821",
+        "created_at": "2025-05-12T01:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T02:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921744237843853821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVgnVmADsq",
+              "end": 26,
+              "expanded_url": "https://x.com/myosuke/status/1921744237843853821/photo/1",
+              "media_key": "3_1921744216142884865",
+              "start": 3,
+              "url": "https://t.co/tVgnVmADsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921744237843853821",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10207,
+          "like_count": 466,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "仲間 https://t.co/tVgnVmADsq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 140,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n激しい曲を作ります⚠\n\n┊HARDCORE TANO*C所属\n┊YouTube→https://t.co/maaallUW10\n┊🌚→@joe__fight\n┊日常→@dj_myosuke\n┊楽曲提供→\nチュウニズム、 Arcaea、太鼓の達人、WACCA、IIDX等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "joe__fight"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dj_myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 81,
+                "expanded_url": "http://youtube.com/djmyosuke",
+                "start": 58,
+                "url": "https://t.co/maaallUW10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "1913181965303550161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756930680666398720/9yAThqDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57486,
+          "following_count": 702,
+          "like_count": 10255,
+          "listed_count": 363,
+          "media_count": 7481,
+          "tweet_count": 47388
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

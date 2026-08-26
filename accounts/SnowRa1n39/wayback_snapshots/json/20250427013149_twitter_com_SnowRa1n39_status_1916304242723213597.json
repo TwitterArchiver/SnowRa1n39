@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916303188657115136"
+      ],
+      "media_source_tweet_id": [
+        "1916303259675070644"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1916304242723213597",
+    "created_at": "2025-04-27T01:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T02:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916304242723213597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14558107",
+          "start": 3,
+          "username": "REDALiCE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LpEd0WYd2u",
+          "end": 47,
+          "expanded_url": "https://x.com/REDALiCE/status/1916303259675070644/photo/1",
+          "media_key": "3_1916303188657115136",
+          "start": 24,
+          "url": "https://t.co/LpEd0WYd2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916304242723213597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916303259675070644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @REDALiCE: シ-38ab！！！ https://t.co/LpEd0WYd2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1916303188657115136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgTmNnbEAAnNJf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916303188657115136"
+          ],
+          "media_source_tweet_id": [
+            "1916303259675070644"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1916304242723213597",
+        "created_at": "2025-04-27T01:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916304242723213597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14558107",
+              "start": 3,
+              "username": "REDALiCE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpEd0WYd2u",
+              "end": 47,
+              "expanded_url": "https://x.com/REDALiCE/status/1916303259675070644/photo/1",
+              "media_key": "3_1916303188657115136",
+              "start": 24,
+              "url": "https://t.co/LpEd0WYd2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916304242723213597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916303259675070644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @REDALiCE: シ-38ab！！！ https://t.co/LpEd0WYd2u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916303188657115136"
+          ]
+        },
+        "author_id": "14558107",
+        "conversation_id": "1916303259675070644",
+        "created_at": "2025-04-27T01:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916303259675070644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpEd0WYd2u",
+              "end": 33,
+              "expanded_url": "https://x.com/REDALiCE/status/1916303259675070644/photo/1",
+              "media_key": "3_1916303188657115136",
+              "start": 10,
+              "url": "https://t.co/LpEd0WYd2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916303259675070644",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "シ-38ab！！！ https://t.co/LpEd0WYd2u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-27T14:03:01.000Z",
+        "description": "レッドアリス。作曲家、DJ。HARDCORE TANO*C代表。\n音ゲー、アニメ、VTuberなど楽曲提供。WACCA共同開発。\nお仕事の連絡フォーム: https://t.co/oiBPT45A4Y\n個人ch: https://t.co/lbLTy3nK7S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tano-c.net/contact/",
+                "end": 100,
+                "expanded_url": "http://tano-c.net/contact/",
+                "start": 77,
+                "url": "https://t.co/oiBPT45A4Y"
+              },
+              {
+                "display_url": "youtube.com/@REDALiCEjp",
+                "end": 130,
+                "expanded_url": "https://www.youtube.com/@REDALiCEjp",
+                "start": 107,
+                "url": "https://t.co/lbLTy3nK7S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tanoc_official",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tanoc_official",
+                "start": 0,
+                "url": "https://t.co/VoE0S0j4xa"
+              }
+            ]
+          }
+        },
+        "id": "14558107",
+        "location": "Tokyo",
+        "name": "REDALiCE",
+        "pinned_tweet_id": "1649353316495933440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1649354377260564480/HAWe0bEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82065,
+          "following_count": 1401,
+          "like_count": 8849,
+          "listed_count": 1069,
+          "media_count": 2636,
+          "tweet_count": 25733
+        },
+        "url": "https://t.co/VoE0S0j4xa",
+        "username": "REDALiCE",
+        "verified": true
+      }
+    ]
+  }
+}

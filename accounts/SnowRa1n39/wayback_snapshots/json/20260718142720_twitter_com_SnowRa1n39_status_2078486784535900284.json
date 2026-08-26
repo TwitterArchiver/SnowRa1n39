@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2078457493500330419",
+    "created_at": "2026-07-18T14:27:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T15:27:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078486784535900284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078486784535900284",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078457493500330419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer pr是好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078457484700762112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgqEfhXQAANLAv.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2078457493500330419",
+        "created_at": "2026-07-18T14:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078486784535900284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078486784535900284",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078457493500330419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer pr是好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078457484700762112"
+          ]
+        },
+        "author_id": "1850329593728917504",
+        "conversation_id": "2078457493500330419",
+        "created_at": "2026-07-18T12:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078457493500330419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sy6IcJBVQm",
+              "end": 29,
+              "expanded_url": "https://x.com/Tristesse_demer/status/2078457493500330419/photo/1",
+              "media_key": "3_2078457484700762112",
+              "start": 6,
+              "url": "https://t.co/sy6IcJBVQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078457493500330419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr呃呃😋 https://t.co/sy6IcJBVQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 80,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 憂鬱逼 酗酒逼 嗑藥逼 很溫良 非國人約的別找我 雙相精分自傷傻逼妳去死好了 查成分回fo",
+        "id": "1850329593728917504",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2078453816815432016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078044988307595264/nRv5N80d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 399,
+          "like_count": 3830,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 899
+        },
+        "url": "",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

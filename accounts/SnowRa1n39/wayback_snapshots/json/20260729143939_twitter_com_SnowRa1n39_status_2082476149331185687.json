@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2082287037265146250",
+    "created_at": "2026-07-29T14:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082476149331185687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        },
+        {
+          "end": 25,
+          "id": "1755664020944941056",
+          "start": 10,
+          "username": "Korewoizontoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082476149331185687",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082287037265146250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_tom0e_x @Korewoizontoyo 特别可爱呢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2082287033439989760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkSXsAAFdYa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082287033444089856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkTWQAA6VDY.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2082287033473482752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkaWwAA1oMf.jpg",
+        "width": 832
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082287033477742592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXFBkbXwAAZrqx.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2082287037265146250",
+        "created_at": "2026-07-29T14:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082476149331185687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            },
+            {
+              "end": 25,
+              "id": "1755664020944941056",
+              "start": 10,
+              "username": "Korewoizontoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082476149331185687",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082287037265146250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_tom0e_x @Korewoizontoyo 特别可爱呢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082287033439989760",
+            "3_2082287033444089856",
+            "3_2082287033473482752",
+            "3_2082287033477742592"
+          ]
+        },
+        "author_id": "1534344658033180672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082287037265146250",
+        "created_at": "2026-07-29T02:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082287037265146250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033439989760",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033444089856",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033473482752",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            },
+            {
+              "display_url": "pic.x.com/ALw8ht0W3D",
+              "end": 59,
+              "expanded_url": "https://x.com/_tom0e_x/status/2082287037265146250/photo/1",
+              "media_key": "3_2082287033477742592",
+              "start": 36,
+              "url": "https://t.co/ALw8ht0W3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082287037265146250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 676,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "是时候进行新的介绍了（´ ▽ ` ）大家可以转发我吗？我很想和别人联系 https://t.co/ALw8ht0W3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 110,
+          "like_count": 2077,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2082287037265146250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076612225880506368/0wrap7kI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 171,
+          "like_count": 55186,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 2845
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T18:45:05.000Z",
+        "description": "无意义。\n我是渔鸽。会查成分回关。\n只是一个互联网神人而已，你拉黑我的话我就死了。 \n \n我最重要最爱的女孩@6De_dian 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1755664020944941056",
+        "location": "地狱",
+        "name": "鋸齒切斷視神經",
+        "pinned_tweet_id": "2075254657912586502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077430330051674112/pgZuXyjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 543,
+          "like_count": 4569,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1336
+        },
+        "url": "",
+        "username": "Korewoizontoyo",
+        "verified": false
+      }
+    ]
+  }
+}

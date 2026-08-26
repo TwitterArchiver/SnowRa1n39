@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077789749541277696"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "2077789763529326658",
+    "created_at": "2026-07-16T16:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077789763529326658"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pzMjPXPhM",
+          "end": 53,
+          "expanded_url": "https://x.com/SnowRa1n39/status/2077789763529326658/photo/1",
+          "media_key": "3_2077789749541277696",
+          "start": 30,
+          "url": "https://t.co/0pzMjPXPhM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077789763529326658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前的体验感受，大号被禁了再发一下，身体你真坏影响我的体验 https://t.co/0pzMjPXPhM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077789749541277696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXKxMNbEAAVU32.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077789749541277696"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "2077789763529326658",
+        "created_at": "2026-07-16T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077789763529326658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pzMjPXPhM",
+              "end": 53,
+              "expanded_url": "https://x.com/SnowRa1n39/status/2077789763529326658/photo/1",
+              "media_key": "3_2077789749541277696",
+              "start": 30,
+              "url": "https://t.co/0pzMjPXPhM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077789763529326658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前的体验感受，大号被禁了再发一下，身体你真坏影响我的体验 https://t.co/0pzMjPXPhM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 68,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

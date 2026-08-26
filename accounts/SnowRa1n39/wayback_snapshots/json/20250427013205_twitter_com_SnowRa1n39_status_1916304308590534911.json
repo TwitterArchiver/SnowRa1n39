@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916303244739166208"
+      ],
+      "media_source_tweet_id": [
+        "1916303255401074941"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1916304308590534911",
+    "created_at": "2025-04-27T01:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T02:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916304308590534911"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "わんぱくレコーズ",
+          "probability": 0.4777,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "M3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "41520058",
+          "start": 3,
+          "username": "zuhozigiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQAjmYpJrE",
+          "end": 82,
+          "expanded_url": "https://x.com/zuhozigiri/status/1916303255401074941/photo/1",
+          "media_key": "3_1916303244739166208",
+          "start": 59,
+          "url": "https://t.co/eQAjmYpJrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916304308590534911",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916303255401074941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuhozigiri: #M3\nP-24a 第一展示場2階\n『わんぱくレコーズ』\n\nで、お待ちしております🐇 https://t.co/eQAjmYpJrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916303244739166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpgTpeibQAAqE7R.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916303244739166208"
+          ],
+          "media_source_tweet_id": [
+            "1916303255401074941"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1916304308590534911",
+        "created_at": "2025-04-27T01:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916304308590534911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "わんぱくレコーズ",
+              "probability": 0.4777,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "M3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "41520058",
+              "start": 3,
+              "username": "zuhozigiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQAjmYpJrE",
+              "end": 82,
+              "expanded_url": "https://x.com/zuhozigiri/status/1916303255401074941/photo/1",
+              "media_key": "3_1916303244739166208",
+              "start": 59,
+              "url": "https://t.co/eQAjmYpJrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916304308590534911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916303255401074941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuhozigiri: #M3\nP-24a 第一展示場2階\n『わんぱくレコーズ』\n\nで、お待ちしております🐇 https://t.co/eQAjmYpJrE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916303244739166208"
+          ]
+        },
+        "author_id": "41520058",
+        "conversation_id": "1916303255401074941",
+        "created_at": "2025-04-27T01:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T02:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916303255401074941"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "わんぱくレコーズ",
+              "probability": 0.497,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "M3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQAjmYpJrE",
+              "end": 66,
+              "expanded_url": "https://x.com/zuhozigiri/status/1916303255401074941/photo/1",
+              "media_key": "3_1916303244739166208",
+              "start": 43,
+              "url": "https://t.co/eQAjmYpJrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916303255401074941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#M3\nP-24a 第一展示場2階\n『わんぱくレコーズ』\n\nで、お待ちしております🐇 https://t.co/eQAjmYpJrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithu/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-21T03:24:20.000Z",
+        "description": "電子暴力的な音楽と映像を製造しながら、奇声を上げております。 楽曲制作/ボーカル/ライブ出演などの依頼はDMかこちらへ✉→ozigiri68@gmail.com OZIGIRI/Abort Mastication/わんぱくレコーズ ファン創作→ #zuhorelic (ずほ遺物)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 123,
+                "tag": "zuhorelic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zuhozigiri",
+                "end": 23,
+                "expanded_url": "https://lit.link/zuhozigiri",
+                "start": 0,
+                "url": "https://t.co/zjfkfqdMMw"
+              }
+            ]
+          }
+        },
+        "id": "41520058",
+        "location": "はーどこあちほー",
+        "name": "ZUHO(ozigiri)春M3 P-24a",
+        "pinned_tweet_id": "1916091695466484183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658650962528178178/VFtbsuQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 1070,
+          "like_count": 13359,
+          "listed_count": 58,
+          "media_count": 2385,
+          "tweet_count": 10459
+        },
+        "url": "https://t.co/zjfkfqdMMw",
+        "username": "zuhozigiri",
+        "verified": true
+      }
+    ]
+  }
+}

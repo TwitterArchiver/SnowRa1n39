@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939354144281681920"
+      ],
+      "media_source_tweet_id": [
+        "1939354150632071452"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1939528092407501289",
+    "created_at": "2025-06-30T03:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T04:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939528092407501289"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "tanoc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62045827",
+          "start": 3,
+          "username": "myosuke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GTUe4Wj5FS",
+          "end": 78,
+          "expanded_url": "https://x.com/myosuke/status/1939354150632071452/photo/1",
+          "media_key": "3_1939354144281681920",
+          "start": 55,
+          "url": "https://t.co/GTUe4Wj5FS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939528092407501289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939354150632071452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @myosuke: HARDCORE TANO*C 22周年！？\nおめでとうございます！ #tanoc https://t.co/GTUe4Wj5FS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1939354144281681920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gun4Ua-XYAAbf6l.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939354144281681920"
+          ],
+          "media_source_tweet_id": [
+            "1939354150632071452"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1939528092407501289",
+        "created_at": "2025-06-30T03:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T04:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939528092407501289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "tanoc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62045827",
+              "start": 3,
+              "username": "myosuke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTUe4Wj5FS",
+              "end": 78,
+              "expanded_url": "https://x.com/myosuke/status/1939354150632071452/photo/1",
+              "media_key": "3_1939354144281681920",
+              "start": 55,
+              "url": "https://t.co/GTUe4Wj5FS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939528092407501289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939354150632071452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @myosuke: HARDCORE TANO*C 22周年！？\nおめでとうございます！ #tanoc https://t.co/GTUe4Wj5FS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939354144281681920"
+          ]
+        },
+        "author_id": "62045827",
+        "conversation_id": "1939354150632071452",
+        "created_at": "2025-06-29T16:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T17:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939354150632071452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "tanoc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTUe4Wj5FS",
+              "end": 65,
+              "expanded_url": "https://x.com/myosuke/status/1939354150632071452/photo/1",
+              "media_key": "3_1939354144281681920",
+              "start": 42,
+              "url": "https://t.co/GTUe4Wj5FS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939354150632071452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19396,
+          "like_count": 1302,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "HARDCORE TANO*C 22周年！？\nおめでとうございます！ #tanoc https://t.co/GTUe4Wj5FS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 54,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 66
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-01T14:42:34.000Z",
+        "description": "Hardcore Producer\n激しい曲を作ります⚠\n\n┊HARDCORE TANO*C所属\n┊YouTube→https://t.co/maaallUW10\n┊🌚→@joe__fight\n┊日常→@dj_myosuke\n┊楽曲提供→\nチュウニズム、 Arcaea、太鼓の達人、WACCA、IIDX等",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 85,
+                "username": "joe__fight"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dj_myosuke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/djmyosuke",
+                "end": 81,
+                "expanded_url": "http://youtube.com/djmyosuke",
+                "start": 58,
+                "url": "https://t.co/maaallUW10"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myosuke.com",
+                "end": 23,
+                "expanded_url": "https://myosuke.com",
+                "start": 0,
+                "url": "https://t.co/dLiTXiBKJE"
+              }
+            ]
+          }
+        },
+        "id": "62045827",
+        "location": "ご依頼→myosuke.666 at gmail.com",
+        "name": "DJ Myosuke",
+        "pinned_tweet_id": "1913181965303550161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756930680666398720/9yAThqDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58124,
+          "following_count": 706,
+          "like_count": 10344,
+          "listed_count": 365,
+          "media_count": 7546,
+          "tweet_count": 47485
+        },
+        "url": "https://t.co/dLiTXiBKJE",
+        "username": "myosuke",
+        "verified": true
+      }
+    ]
+  }
+}

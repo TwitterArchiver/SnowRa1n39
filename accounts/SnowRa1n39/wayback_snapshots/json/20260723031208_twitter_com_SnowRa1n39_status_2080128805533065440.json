@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2079917538671296871",
+    "created_at": "2026-07-23T03:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T04:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080128805533065440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1762178935012610048",
+          "start": 0,
+          "username": "rLMj8iYK5v3459"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080128805533065440",
+    "in_reply_to_user_id": "1762178935012610048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079924181798433142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rLMj8iYK5v3459 是的😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2079917538671296871",
+        "created_at": "2026-07-23T03:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080128805533065440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1762178935012610048",
+              "start": 0,
+              "username": "rLMj8iYK5v3459"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080128805533065440",
+        "in_reply_to_user_id": "1762178935012610048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079924181798433142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rLMj8iYK5v3459 是的😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762178935012610048",
+        "conversation_id": "2079917538671296871",
+        "created_at": "2026-07-22T13:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079924181798433142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079924181798433142",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079917538671296871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 吃不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 🚪52",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 101,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T18:13:04.000Z",
+        "description": "可以叫我梦境！友跨顺女，中焦中抑，同类可以找我聊天喵，看看比那种滚，直fo就是眼熟你喜欢你😽，查成分回fo",
+        "id": "1762178935012610048",
+        "name": "🦋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071690011079237633/Ias3-Tz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 79,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "rLMj8iYK5v3459",
+        "verified": false
+      }
+    ]
+  }
+}

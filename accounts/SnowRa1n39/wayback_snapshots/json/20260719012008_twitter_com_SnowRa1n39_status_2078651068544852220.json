@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2078486915591115103",
+    "created_at": "2026-07-19T01:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078651068544852220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850329593728917504",
+          "start": 0,
+          "username": "Tristesse_demer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078651068544852220",
+    "in_reply_to_user_id": "1850329593728917504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078637101571006606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tristesse_demer 小池酱贴贴🥺🩵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2078486915591115103",
+        "created_at": "2026-07-19T01:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078651068544852220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850329593728917504",
+              "start": 0,
+              "username": "Tristesse_demer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078651068544852220",
+        "in_reply_to_user_id": "1850329593728917504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078637101571006606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tristesse_demer 小池酱贴贴🥺🩵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850329593728917504",
+        "conversation_id": "2078486915591115103",
+        "created_at": "2026-07-19T00:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T01:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078637101571006606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1914248090048991232",
+              "start": 0,
+              "username": "SnowRa1n39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078637101571006606",
+        "in_reply_to_user_id": "1914248090048991232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078486915591115103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowRa1n39 我在呀😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 88,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T00:12:15.000Z",
+        "description": "可以叫我小池 泛🚪88｜188｜520｜888（歡迎隨意打賞）沒過🚪不閒聊 不賣不約 憂鬱逼 酗酒逼 嗑藥逼 很溫良 非國人約的別找我 雙相精分自傷傻逼妳去死好了 查成分回fo",
+        "id": "1850329593728917504",
+        "name": "離離池上喵",
+        "pinned_tweet_id": "2077754886763004157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078044988307595264/nRv5N80d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 406,
+          "like_count": 3929,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 919
+        },
+        "url": "",
+        "username": "Tristesse_demer",
+        "verified": false
+      }
+    ]
+  }
+}

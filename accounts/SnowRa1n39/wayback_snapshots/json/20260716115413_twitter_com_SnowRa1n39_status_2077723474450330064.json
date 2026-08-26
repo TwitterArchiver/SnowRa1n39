@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2077440836976128389",
+    "created_at": "2026-07-16T11:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T12:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077723474450330064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653266334619402245",
+          "start": 0,
+          "username": "itsagoodnameO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077723474450330064",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077440836976128389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsagoodnameO_o 我也是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2077440836976128389",
+        "created_at": "2026-07-16T11:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077723474450330064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077723474450330064",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077440836976128389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 我也是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2077440836976128389",
+        "created_at": "2026-07-15T17:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077440836976128389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077440836976128389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 872,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药效里实在太可怕了，我想把每一个人都约出来玩。看见别人发帖想要交朋友，我就想去私信和她一起出来玩，太可怕了不是吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 127,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

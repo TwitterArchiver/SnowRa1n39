@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969389106280218626"
+      ]
+    },
+    "author_id": "1914248090048991232",
+    "conversation_id": "1969389118103961689",
+    "created_at": "2025-09-20T13:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T14:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969389118103961689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JnHkFYu73J",
+          "end": 23,
+          "expanded_url": "https://x.com/SnowRa1n39/status/1969389118103961689/photo/1",
+          "media_key": "3_1969389106280218626",
+          "start": 0,
+          "url": "https://t.co/JnHkFYu73J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969389118103961689",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JnHkFYu73J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969389106280218626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Ss9ThbQAISpsm.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969389106280218626"
+          ]
+        },
+        "author_id": "1914248090048991232",
+        "conversation_id": "1969389118103961689",
+        "created_at": "2025-09-20T13:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969389118103961689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JnHkFYu73J",
+              "end": 23,
+              "expanded_url": "https://x.com/SnowRa1n39/status/1969389118103961689/photo/1",
+              "media_key": "3_1969389106280218626",
+              "start": 0,
+              "url": "https://t.co/JnHkFYu73J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969389118103961689",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JnHkFYu73J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "🇨🇳/除中文外皆为机翻，HARDCORE TANO*C/Arcaea/Chunithm/Maimai/Ozigiri...硬核音乐爱好者，くるいんちゅ...love，不定期同人产出，很高兴认识你",
+        "id": "1914248090048991232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Snow9urial",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914268074070405120/u1uQ510F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 56,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 87
+        },
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}

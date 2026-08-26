@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2080678929963348373",
+    "created_at": "2026-07-24T15:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T16:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080678929963348373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2061066746203652100",
+          "start": 3,
+          "username": "Feifeimian8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080678929963348373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080656496590041521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Feifeimian8964: 哪吒自刎因为他是青少年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2080678929963348373",
+        "created_at": "2026-07-24T15:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080678929963348373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2061066746203652100",
+              "start": 3,
+              "username": "Feifeimian8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080678929963348373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080656496590041521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Feifeimian8964: 哪吒自刎因为他是青少年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080656496590041521",
+        "created_at": "2026-07-24T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080656496590041521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080656496590041521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哪吒自刎因为他是青少年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝    52➕墙内 聊天陪着你",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 112,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 195
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian分享美金刚不好体验",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 185,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 570
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      }
+    ]
+  }
+}

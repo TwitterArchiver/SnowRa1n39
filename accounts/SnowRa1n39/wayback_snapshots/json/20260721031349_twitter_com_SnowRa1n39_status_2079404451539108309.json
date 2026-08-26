@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2079404451539108309",
+    "created_at": "2026-07-21T03:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079404451539108309"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079404451539108309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我以前在网上买prbl被骗了一百多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2079404451539108309",
+        "created_at": "2026-07-21T03:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079404451539108309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079404451539108309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以前在网上买prbl被骗了一百多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 🚪52",
+        "id": "1914248090048991232",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 97,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false
+      }
+    ]
+  }
+}
