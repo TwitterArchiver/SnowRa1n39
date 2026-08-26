@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T19:06:08",
+  "last_updated": "2026-08-26T19:07:23",
   "html": {
     "https://web.archive.org/web/20250421144727if_/https://twitter.com/SnowRa1n39/status/1914330142052098407": {
       "status": "done",
@@ -2243,18 +2243,18 @@
       "referenced_by": [
         "20260714164558_twitter_com_SnowRa1n39_status_2077072119800992123.json"
       ],
-      "last_updated": "2026-08-26T17:32:00",
+      "last_updated": "2026-08-26T19:07:17",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260714164558/https://video.twimg.com/ext_tw_video/2076712463593312256/pu/vid/avc1/720x1280/XsVFv-NdrWXxYE31.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2077987570101936129/vid/avc1/720x1280/cvEEJBoi49fgStLn.mp4?tag=14": {
       "status": "failed_all",
       "referenced_by": [
         "20260718141549_twitter_com_SnowRa1n39_status_2078483888054407397.json"
       ],
-      "last_updated": "2026-08-26T17:32:03",
+      "last_updated": "2026-08-26T19:07:23",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260718141549/https://video.twimg.com/amplify_video/2077987570101936129/vid/avc1/720x1280/cvEEJBoi49fgStLn.mp4?tag=14",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2079418358668382208/vid/avc1/588x1280/TGTseICeX3ZX_hDt.mp4": {
       "status": "done",
