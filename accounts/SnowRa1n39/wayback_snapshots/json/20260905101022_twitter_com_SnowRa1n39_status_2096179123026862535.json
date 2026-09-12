@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2096179123026862535",
+    "created_at": "2026-09-05T10:10:22.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096179123026862535"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096179123026862535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ymsf过量是不是回导致感官感受延迟？我服用过量ymsf过了几个小时吃了汉堡，无感无味，但是我在梦中梦到了我在吃虫卵🙁是汉堡酥脆的口感但是没有味道，给我恶心坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2096179123026862535",
+        "created_at": "2026-09-05T10:10:22.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096179123026862535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096179123026862535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ymsf过量是不是回导致感官感受延迟？我服用过量ymsf过了几个小时吃了汉堡，无感无味，但是我在梦中梦到了我在吃虫卵🙁是汉堡酥脆的口感但是没有味道，给我恶心坏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝 52➕墙内vx纯绿 聊天陪着你",
+        "id": "1914248090048991232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096179123026862535",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914248090048991232/1745232059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 92,
+          "like_count": 2403,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
