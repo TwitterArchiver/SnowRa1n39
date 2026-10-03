@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1914248090048991232",
+    "conversation_id": "2101547337726529829",
+    "created_at": "2026-09-20T05:41:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101547337726529829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "500649442",
+          "start": 3,
+          "username": "tanoc_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101547337726529829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101261267117986012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanoc_official: 🛍️ TANO*C POP UP STORE 開催決定 🛍️\n\nTANO*C STOREがリアル店舗に！？\n\n📅 10/31(土) - 11/1(日)\n📍 高田馬場 BaBaBa\n\n限定グッズの販売、一日店長＆サイン会開催予定👀\n\n続報を…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2101096023452176384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiXs4TaUAAyO7m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914248090048991232",
+        "conversation_id": "2101547337726529829",
+        "created_at": "2026-09-20T05:41:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101547337726529829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "500649442",
+              "start": 3,
+              "username": "tanoc_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101547337726529829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101261267117986012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanoc_official: 🛍️ TANO*C POP UP STORE 開催決定 🛍️\n\nTANO*C STOREがリアル店舗に！？\n\n📅 10/31(土) - 11/1(日)\n📍 高田馬場 BaBaBa\n\n限定グッズの販売、一日店長＆サイン会開催予定👀\n\n続報を…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101096023452176384"
+          ]
+        },
+        "author_id": "500649442",
+        "conversation_id": "2101261267117986012",
+        "created_at": "2026-09-19T10:45:00.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T11:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101261267117986012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 124,
+              "tag": "tanoc"
+            },
+            {
+              "end": 142,
+              "start": 131,
+              "tag": "tanocstore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpMKp5UV9l",
+              "end": 166,
+              "expanded_url": "https://x.com/tanoc_official/status/2101261267117986012/photo/1",
+              "media_key": "3_2101096023452176384",
+              "start": 143,
+              "url": "https://t.co/fpMKp5UV9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101261267117986012",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101096023452176384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 32560,
+          "like_count": 682,
+          "quote_count": 43,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "🛍️ TANO*C POP UP STORE 開催決定 🛍️\n\nTANO*C STOREがリアル店舗に！？\n\n📅 10/31(土) - 11/1(日)\n📍 高田馬場 BaBaBa\n\n限定グッズの販売、一日店長＆サイン会開催予定👀\n\n続報を待て🔥\n\n#tanoc #tanocstore https://t.co/fpMKp5UV9l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T09:22:06.000Z",
+        "description": "我是蓝",
+        "id": "1914248090048991232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101547337726529829",
+        "name": "⋆⁺₊⋆嗳寺藍໒꒱ 🩵 ෆ",
+        "pinned_tweet_id": "2076304115391742376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914248090048991232/1745232059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076305737337520128/LD4NQoCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 89,
+          "like_count": 2502,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "SnowRa1n39",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-02-23T10:12:20.000Z",
+        "description": "音楽制作集団 HARDCORE TANO*C\nYouTube https://t.co/6XuF0S8GXv\n公式ハッシュタグ #tanoc \nファンアート #たのあーと\n部活 #tanocペク部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "tanoc"
+              },
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "たのあーと"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "tag": "tanocペク部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@tanoc_official",
+                "end": 54,
+                "expanded_url": "https://www.youtube.com/@tanoc_official",
+                "start": 31,
+                "url": "https://t.co/6XuF0S8GXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tano-c.net",
+                "end": 23,
+                "expanded_url": "https://tano-c.net/",
+                "start": 0,
+                "url": "https://t.co/RWf4EIu5sZ"
+              }
+            ]
+          }
+        },
+        "id": "500649442",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2101318519933808968",
+        "name": "HARDCORE TANO*C",
+        "pinned_tweet_id": "2101265043321176228",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/500649442/1775817832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1084393916391014400/nNIF3aPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105530,
+          "following_count": 55,
+          "like_count": 1,
+          "listed_count": 522,
+          "media_count": 3166,
+          "tweet_count": 4612
+        },
+        "url": "https://t.co/RWf4EIu5sZ",
+        "username": "tanoc_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
